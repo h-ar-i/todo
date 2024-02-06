@@ -1,0 +1,12 @@
+body{
+    background-image: url(./gradient-geometric-shapes-dark-background_23-2148435100.avif);
+    /* background-size: cover; */
+}
+nav{
+    background-color: red;
+}
+.one{
+    display:grid;
+	place-items:centre;
+    
+}
